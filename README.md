@@ -8,6 +8,6 @@ The data has been collected from PPAC(Petroleum Planning and Ananlysis Cell) fro
 * For time series analysis- statsmodels(adf test, seasonal decomposition, acf&pacf plots, ARIMA)
 * For AUTOARIMA- pmdarima
 
-The project aims to perform time-series analysis- applying adf test to test stationarity,seasonal decomposition, interpretation of detrended,deseasonalised plots, applying box-jenkins methodology for identification of order of ARIMA, evaluating ARIMA/SARIMA performance using cross validation(recursive methology for multistep forecasting) followed by residual analysis. The predictions are made from April 2024 to January-2025 and a MSE of 6.1377 for ARIMA and 6.6290 for SARIMA.
+The project aims to perform time-series analysis- applying adf test to test stationarity,seasonal decomposition, interpretation of detrended,deseasonalised plots, applying box-jenkins methodology for identification of order of ARIMA, evaluating ARIMA/SARIMA performance using cross validation(recursive methodology for multistep forecasting) followed by residual analysis. The predictions are made from April 2024 to January-2025 and a MSE of 6.1377 for ARIMA and 6.6290 for SARIMA.
 
 
